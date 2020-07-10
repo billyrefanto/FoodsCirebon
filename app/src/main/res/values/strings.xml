@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Khas Cirebon</string>
+    <string name="foods_name">Nama Makanan</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="profile">Profile</string>
+    <string name="description">description</string>
+    <string name="nameProfile">Moch Billy Refanto</string>
+    <string name="email">mbillyrefanto@gmail.com</string>
+</resources>
